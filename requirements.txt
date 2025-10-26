@@ -1,0 +1,30 @@
+10.27 3:59 AM
+# Core Python Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Audio Processing
+librosa
+soundfile
+scipy
+
+# Machine Learning
+xgboost
+imbalanced-learn
+
+# Web Application (UI)
+streamlit
+
+# Utility
+joblib
+tqdm
+
+
+
+
+notebook
+jupyter
+
